@@ -1,0 +1,28 @@
+img {
+    width: 300px;
+
+}
+
+h1,
+p {
+    font-family: 'Newsreader', serif;
+}
+
+body {
+    background-color: #ffbf3d;
+    
+}
+
+.header {
+    border: 12px dotted black;
+}
+
+.errorCode {
+    display: flex;
+    justify-content: center;
+}
+
+.errorMessage {
+    display: flex;
+    justify-content: center;
+}
